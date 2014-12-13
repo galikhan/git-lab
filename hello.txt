@@ -1,2 +1,2 @@
 hello world
-create trouble
+child modified same file
